@@ -2,6 +2,7 @@
 <head>
 <title>My page</title>
 <style>
+
 table{border-collapse:collapse}
 div{color:red}
 </style>
